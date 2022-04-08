@@ -10,6 +10,9 @@ Pick 200 larvae from a grape plate over 4 hours after, clearing to control for a
  ![IMG_4184](https://user-images.githubusercontent.com/64053624/162487803-e80c86b2-8559-453d-9094-d67350a97202.jpg)
 ![IMG_4185_2](https://user-images.githubusercontent.com/64053624/162487824-d7eaafe2-f7a4-4387-b507-3960ac4ffe62.jpg)
 
+*foraging* null larvae are late pupal lethal and do not survive to adulthood, so the genetic mutant is balanced over a chromosome containing CyO-gfp. Null larvae are picked under UV light that causes the gfp-containing larvae to glow green. We selected the larvae that *do not* glow, as null/null homogzygous mutants do not have the balancer chromosome. 
+![IMG_4463_2 (2)](https://user-images.githubusercontent.com/64053624/162488611-4d001293-2132-4eef-8c2f-d19171147917.jpg)
+
 
 Seed larvae into a vial containing a standardized amount of food.
 ![IMG_4307](https://user-images.githubusercontent.com/64053624/162487505-6140265c-af8c-4394-bd0e-c0e7e7fc8ac0.jpg)
